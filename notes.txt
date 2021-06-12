@@ -1,0 +1,3 @@
+6/12/2021
+- Added DB_STRING to secrets in replit (T)
+- Created basic app.js and config/db.js to test db setup
